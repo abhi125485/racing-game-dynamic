@@ -1,0 +1,7 @@
+racing-game/
+ ┣ index.html
+ ┣ js/
+ ┃   ┗ main.js
+ ┣ assets/
+ ┃   ┗ models/
+ ┃       ┗ placeholder_car.glb (optional, can use cube for now)
